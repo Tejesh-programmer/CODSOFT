@@ -11,14 +11,21 @@ Predict survival on the Titanic using machine learning.
 pip install -r requirements.txt
 python titanic.py
 
-## Task 2: iris-flower-classification 
+
+### Steps to add this to your repository:
+
+1. **Stage the changes**:
+   ```bash
+   git add README.md
+
+
+Task 2: Iris Flower Classification
 Predict the species of Iris flowers using machine learning.
 
-### Dataset
+Dataset
 -Source: Iris Flower Dataset
 
-### How to Run
-```bash
+How to Run
 pip install -r requirements.txt
 python iris_classification.py
 
